@@ -3,3 +3,8 @@ components:
   docker: "1.2.1"
   helm: "1.2.2"
   terraform: "1.2.7"
+artifact_bundle: 1.3.9
+components:
+  docker: "1.2.1"
+  helm: "1.2.2"
+  terraform: "1.2.7"
